@@ -169,7 +169,7 @@ JavaScript digunakan untuk memberikan interaksi dan perilaku dinamis pada websit
 Secara sederhana:
 HTML = struktur
 CSS = tampilan
-JavaScript = interaksi/perilaku
+JavaScript = adalah interaksi/perilaku
 13. Dua lingkungan tempat JavaScript dijalankan
 1. Browser
 JavaScript dapat dijalankan langsung di browser seperti Chrome, Edge, Firefox, dan Safari. Contohnya digunakan untuk mengubah isi HTML atau merespons interaksi pengguna.
